@@ -1,0 +1,26 @@
+html,body {
+    background-color: rgb(48, 102, 13)
+}
+
+#content-wrapper {
+    position: relative;
+    width: 1400px;
+    height: 830px;
+    margin: 0 auto;
+
+}
+
+h1,h3 {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+ul {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+#main_graphic {
+    border-image: 4px solid white;
+}
